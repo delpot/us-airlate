@@ -1,0 +1,37 @@
+# Données brutes (volumineuses, jamais versionnées)
+data/raw/
+
+# Gros fichiers de données transformées (filtrage par extension)
+data/processed/*.csv
+data/processed/*.csv.gz
+data/processed/*.parquet
+data/processed/*.feather
+data/processed/*.pkl
+data/processed/*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements Python
+.venv/
+venv/
+env/
+.conda/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Identifiants et secrets
+kaggle.json
+.kaggle/
+.env
+.env.*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Instructions Claude Code (non publiées)
+CLAUDE.md
