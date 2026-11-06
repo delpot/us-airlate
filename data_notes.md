@@ -8,8 +8,6 @@
 4. [Questions et vues](#4-questions-et-vues)
 5. [Sources à ajouter](#5-sources-à-ajouter)
 6. [Pièges](#6-pièges)
-7. [À décider ou à vérifier](#7-à-décider-ou-à-vérifier)
-8. [Références](#8-références)
 
 ## 1. Colonnes
 
